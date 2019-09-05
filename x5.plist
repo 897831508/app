@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.klcz00.com/package/yhkj.ipa</string>
+                    <string>http://api.py6627.cn/app/23bfeb395a062ed65aa309f5d6f46d84.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ydb.ipa</string>
+                <string>com.desd</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>银河矿机</string>
+                <string>徽黄木艺文版通</string>
             </dict>
         </dict>
     </array>
