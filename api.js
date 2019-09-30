@@ -12,21 +12,6 @@
         }
         return ls;
     };
-    u.fixTabBar = function(el) {
-
-        if (!u.isElement(el)) {
-
-            console.warn('$api.fixTabBar Function need el param, el param must be DOM Element');
-
-            return 0;
-
-        }
-
-        el.style.paddingBottom  = api.safeArea.bottom + 'px';
-
-        return el.offsetHeight;
-
-    };
     function parseArguments(url, data, fnSuc, dataType) {
         if (typeof(data) == 'function') {
             dataType = fnSuc;
