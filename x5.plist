@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://app.erengu.net.cn/download/erg.ipa</string>
+                    <string>https://app.erengu.net.cn/download/erg.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
